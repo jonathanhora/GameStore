@@ -1,3 +1,4 @@
+@import url("estilos/cabecalho.css");
 @import url("estilos/destaques.css");
 @import url("estilos/populares.css");
 
@@ -11,17 +12,18 @@
         "rodape"
     ;
     grid-template-columns: auto;
-    grid-template-rows:50px 100vh auto ;
+    grid-template-rows:50px auto auto ;
 }
 
-.cabecalho {
-    grid-area: cabecalho;
-}
- 
 .conteudo {
     grid-area: conteudo;
+    padding: 0 2rem;
 }
 
 .rodape {
+    background: #fdfdfd;
+    color: #333333;
+    font-size: .8rem;
     grid-area: rodape;
+    text-align: center;
 }
