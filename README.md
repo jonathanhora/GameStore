@@ -8,6 +8,10 @@
 # Modelo de layout:
 * Grid
 
+# Layout:
+
+[prototipo.pdf](https://github.com/jonathanhora/GameStore/files/9667979/prototipo.pdf)
+
 Acesso:
 
 https://game-store-2cwv.vercel.app/
