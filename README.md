@@ -8,6 +8,10 @@
 # Modelo de layout:
 * Grid
 
+Acesso:
+
+https://game-store-2cwv.vercel.app/
+
 Desktop:
 
 ![image](https://user-images.githubusercontent.com/65188908/192859718-c7ebf332-021c-4108-a09a-ab36900a398c.png)
